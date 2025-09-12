@@ -35,7 +35,9 @@ Nurture cold leads with regular engagement to build trust and interest.
 Defer low-engagement leads (no email) until higher-value prospects are addressed.
 
 # Files
-[Leads Dashboard]("Bussiness analysis.pbix")
+[Leads Dashboard](Bussiness_analysis.pbix)
+[Dashboard Screenshort](dashboard_screenshots/)
+[Dashboard pdf](Bussiness analysis1)
 
 
  
