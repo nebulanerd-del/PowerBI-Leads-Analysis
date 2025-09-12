@@ -34,9 +34,6 @@ Prioritize outreach to larger companies with verified email access.
 Nurture cold leads with regular engagement to build trust and interest.
 Defer low-engagement leads (no email) until higher-value prospects are addressed.
 
-# Project Files
--[Dashboard Screenshots] (dashboard_screenshots/)
--
 
  
 
