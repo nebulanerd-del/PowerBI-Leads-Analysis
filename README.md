@@ -37,7 +37,13 @@ Defer low-engagement leads (no email) until higher-value prospects are addressed
 # Files
 [Leads Dashboard](Bussiness_analysis.pbix)
 [Dashboard Screenshort](dashboard_screenshots/)
-[Dashboard pdf](Bussiness analysis1)
+[Dashboard pdf](Bussiness_analysis1)
+
+# Tools Used
+- **Power BI** → Data visualization & dashboarding  
+- **Excel / CSV** → Data preparation  
+- **DAX** → Calculated columns and measures  
+- **Business Analysis** → Segmentation, lead prioritization, storytelling 
 
 
  
