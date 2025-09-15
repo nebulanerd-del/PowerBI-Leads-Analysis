@@ -5,9 +5,9 @@ This project focuses on analyzing leads data to identify high-value prospects an
 
 # Business Problem
 Leads were scattered across multiple categories without clear prioritization. This made it difficult for sales teams to decide which prospects to pursue first, leading to:
-Wasted effort on low-value leads
-Missed opportunities with strategic accounts
-Lack of clarity on follow-up actions
+Inefficient Resource Allocation: Sales teams spent valuable time pursuing low-potential leads.
+Missed Opportunities: High-value prospects were overlooked due to the absence of a structured approach.
+Stagnant Conversion Rates: Without strategic targeting, lead conversion remained suboptimal.
 
 # Data Description
 The dataset includes:
